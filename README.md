@@ -1,0 +1,2 @@
+# JOB-A-THON---Feb22
+Analytics Vidhya presents “JOB-A-THON” - India's Largest Data Science Hiring Event, where 37,000+ candidates have participated for job roles in over 80+ top companies. You can be among them too!   At JOB-A-THON, all Data Science enthusiasts, freshers and professionals will get the opportunity to showcase their skills and get a chance to interview with top companies for leading job roles in Data Science, Machine Learning &amp; Analytics. 
