@@ -12,9 +12,15 @@ The main objective of the problem is to develop the machine learning approach to
 # Data Dictionary
 You are provided with 3 files - train.csv, test.csv and sample_submission.csv
 
+<img width="413" alt="Screenshot 2022-02-13 235339" src="https://user-images.githubusercontent.com/70212207/153769074-d1d6e756-eaba-4040-a5dc-75ded2e2402b.png">
+
 # Submission File Format
 
 sample_submission.csv contains only 2 variables - row_id and engagement_score
 
 # Evaluation metric
 The evaluation metric for this hackathon is r2 score.
+
+# MY Rank 
+Rank out of 1177 competitors
+<img width="830" alt="Screenshot 2022-02-13 235424" src="https://user-images.githubusercontent.com/70212207/153769077-ba651a96-15fb-4e0e-a3cc-574f32a67c3e.png">
